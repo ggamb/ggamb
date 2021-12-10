@@ -17,7 +17,6 @@ You can reach me by email at <a href = "glenngambardella372@gmail.com">glenngamb
 <code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></code>
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/javascript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/visual-studio-code.png"></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original-wordmark.svg" /></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" /> </code>
