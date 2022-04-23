@@ -7,8 +7,8 @@ You can reach me by email at <a href = "glenngambardella372@gmail.com">glenngamb
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ggamb)
 
 - 🔭 I’m currently working on finding a first job as a full-stack web developer!
-- 🌱 I’m currently learning React and the MERN stack, and always looking for more! One of the great things about programming is the neverending rabbit hole.
-- 👯 I’m looking to collaborate on any interesting projects for beginner/intermediate developers! 
+- 🌱 I’m currently learning Angular and various backend languages, and always looking for more! One of the great things about programming is the neverending rabbit hole.
+- 👯 I’m looking to collaborate on any interesting projects for developers! 
 
 
 **Languages and Tools:**  
